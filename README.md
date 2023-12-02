@@ -1,7 +1,5 @@
-# group-project-two-team-three
-# Testing: Camilo Romero | Jason Liang | Cristian Yepez
-Hanif Djamiludin
-aaaa
+# NICE-NOTES
+# DEVELOPERS: CAMILO ROMERO, HANIF, CRISTIAN, MOHAMED, JASON
 
 ## Getting started
 
