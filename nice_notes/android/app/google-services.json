@@ -1,0 +1,50 @@
+{
+  "project_info": {
+    "project_number": "683500573991",
+    "project_id": "nice-notes-5",
+    "storage_bucket": "nice-notes-5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:683500573991:android:52e3fc7965c9ebaccb0502",
+        "android_client_info": {
+          "package_name": "com.example.nice_notes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "683500573991-m52172e6sfp951rpm736g3i2kfqvmceg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nice_notes",
+            "certificate_hash": "9b7a5a90664bf2ae936ca5f35bb5435317c03e6f"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUsu0wpBmBqLcp6zrSWQ9Sg5IKR5eXY3o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "683500573991-t8crk8ko7bbuak46emp8sekjegvsba1r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "683500573991-n0ab97j27n317urch758hsbk2idj9dcs.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.niceNotes"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
